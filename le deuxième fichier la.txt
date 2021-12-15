@@ -2,3 +2,4 @@ j'écris pour la première fois dans ce deuxième fichier
 et je le modifie maintenant
 Moi je modifie sans le dire mouahahah
 LES COMMITS SANS DESCRIPTION C PAS BIEN
+je test le git ignore car c'est les consignes
